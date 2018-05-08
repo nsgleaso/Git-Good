@@ -1,1 +1,3 @@
 Hello, this is the second test file.
+
+Initial line.
