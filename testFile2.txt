@@ -1,1 +1,3 @@
 Hello, this is the second test file.
+
+This is the line that was added in the new branch.
